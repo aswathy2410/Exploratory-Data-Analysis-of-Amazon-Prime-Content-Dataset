@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis-of-Amazon-Prime-Content-Dataset
-This project performs an in-depth exploratory data analysis (EDA) of the Amazon Prime Content dataset to uncover key insights and patterns. 
+This project performs an in-depth exploratory data analysis (EDA) of the Amazon Prime Content dataset to uncover key insights and patterns. Using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn, the analysis explores various aspects of the content library, including genre distribution, release years, content ratings, and duration. The visualizations help identify trends, popular categories, and content attributes that influence viewer preferences.
